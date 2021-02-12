@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DevcampViewToolFeanor::Renderer.copyright 'Feanor306', 'All rights reserved'
+```
 
 ## Development
 
